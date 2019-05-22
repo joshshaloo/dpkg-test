@@ -1,0 +1,7 @@
+{
+  "name": "dpkg-test",
+  "version": "0.0.1",
+  "description": "Testing dpkg",
+  "scripts": [ "dpkg-test.sh" ],
+  "install": "make install"
+}
